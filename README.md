@@ -8,8 +8,4 @@
 
 [![Twitter Follow](https://img.shields.io/twitter/follow/amrsekilly?style=social)](https://twitter.com/amrsekilly)
 
-![Hits](https://hitcounter.pythonanywhere.com/count/tag.svg?url=https%3A%2F%2Fgithub.com%2Famrsekilly)
-
 <img src="https://media.giphy.com/media/48FhEMYGWji8/source.gif"> 
-
-![Keybase PGP](https://img.shields.io/keybase/pgp/amrsekilly?style=for-the-badge)
